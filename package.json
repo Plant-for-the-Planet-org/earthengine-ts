@@ -1,5 +1,5 @@
 {
-  "name": "@planet/earthengine-ts",
+  "name": "@planetfoundation/earthengine-ts",
   "version": "0.1.0",
   "description": "Unofficial TypeScript wrapper around the Google Earth Engine JavaScript client",
   "type": "module",
@@ -44,16 +44,16 @@
     "geospatial",
     "satellite-imagery"
   ],
-  "author": "",
+  "author": "Plant for the Planet",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Plant-for-the-Planet-org/earthengine-ts"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Plant-for-the-Planet-org/earthengine-ts/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Plant-for-the-Planet-org/earthengine-ts",
   "peerDependencies": {
     "@google/earthengine": ">=0.1.0"
   },
